@@ -13,4 +13,4 @@ TableView内容搜索实战示例，基于语言Swift2.2，环境XCode7.3.1
 * 实现UISearchBarDelegate协议方法searchBar:textDidChange:响应当输入搜索栏文字发生改变时，根据当前文字内容实时过滤列表项；
 * 实现UISearchBarDelegate协议方法searchBar:selectedScopeButtonIndexDidChange:响应选择中英文搜索方式切换；
 
-如果喜欢的话，欢迎**Start**一下
+如果喜欢的话，欢迎**Star**一下
