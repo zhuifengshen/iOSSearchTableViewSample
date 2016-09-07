@@ -4,7 +4,7 @@ TableView内容搜索实战示例，基于语言Swift2.2，环境XCode7.3.1
 
 本工程在[简单TableView示例](https://github.com/zhuifengshen/iOSTableViewSample)上增加了对每个单元格的搜索功能，支持实时和中英文搜索，具体运行情况如下：
 
-![iOSSearchTableViewSample](search.gif "运行示例")
+![iOSSearchTableViewSample](sea'rch.gif "运行示例")
 
 ### 实现搜索功能要点：
 * 实现UISearchBarDelegate协议方法searchBarShouldBeginEditing:响应搜索框获得焦点时，显示中英文搜索；
